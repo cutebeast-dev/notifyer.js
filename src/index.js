@@ -1,5 +1,4 @@
 const { spawn } = require('child_process');
-const package = require('../package.json');
 const Notifyer = {};
 
 const os = process.platform;
