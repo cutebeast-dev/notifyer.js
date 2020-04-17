@@ -1,7 +1,10 @@
 {
-  "name": "notifyer",
+  "name": "@cutebeast.dev/notifyer",
   "version": "1.0.0",
   "description": "Trigger Linux and MacOS Notification using Javascript",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon -q src",

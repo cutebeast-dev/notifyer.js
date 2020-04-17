@@ -11,3 +11,9 @@ _System notifications with Javascript_
 
     notifyer.notify(`That's a pretty notification of your system.`);
 ```
+
+***
+
+#### Support
+
+* Linux
