@@ -4,7 +4,7 @@ _System notifications with Javascript_
 
 ***
 
-# How to use?
+#### How to
 
 ```js
     const notifyer = require('notifyer.js');
