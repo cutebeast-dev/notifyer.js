@@ -10,7 +10,7 @@ console.log(`OS: ${os}`);
 
 let notifyCommand = '';
 switch (os) {
-    case 'linsux':
+    case 'linux':
         notifyCommand = 'notify-send';
         break;
 }
