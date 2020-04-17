@@ -2,11 +2,7 @@ const { spawn } = require('child_process');
 const package = require('../package.json');
 const Notifyer = {};
 
-console.clear();
-console.log(`Notifyer v${package.version}`);
-
 const os = process.platform;
-console.log(`OS: ${os}`);
 
 let notifyCommand = '';
 switch (os) {
